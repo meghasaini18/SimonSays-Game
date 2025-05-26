@@ -14,7 +14,7 @@ The Simon Says Game is a fun, interactive memory game where players must repeat 
 - **CSS3** — for styling and animations  
 - **JavaScript** — for game logic and interactivity
 
-📌 How to Play
+## 📌 How to Play
 
 - Press any key to start the game.
 - A sequence of colors will flash.
@@ -22,7 +22,7 @@ The Simon Says Game is a fun, interactive memory game where players must repeat 
 - The sequence gets longer each round.
 - Get the sequence wrong? Game Over!
 
-💡 How It Works
+##💡 How It Works
 - A random color is added to the sequence each level.
 - The player must repeat the full sequence correctly.
 - Uses event listeners and timeouts to manage input and timing.
