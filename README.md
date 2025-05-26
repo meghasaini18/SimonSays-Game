@@ -23,3 +23,10 @@ simonSays-Game/
 └── script.js
 
  
+📌 How to Play
+
+-**Press any key to start the game.
+-**A sequence of colors will flash.
+-**Repeat the sequence by clicking the buttons.
+-**The sequence gets longer each round.
+-**Get the sequence wrong? Game Over!
