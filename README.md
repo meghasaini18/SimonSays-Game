@@ -8,8 +8,17 @@ The Simon Says Game is a fun, interactive memory game where players must repeat 
 - ⏫ Increasing difficulty with each round
 - 🎨 Clean UI with smooth animations
 
-  ## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 - **HTML5** — for structure  
 - **CSS3** — for styling and animations  
 - **JavaScript** — for game logic and interactivity  
+
+## 📂 Folder Structure
+
+```plaintext
+simonSays-Game/
+├── index.html
+├── style.css
+└── script.js
+
